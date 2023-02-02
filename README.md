@@ -25,11 +25,10 @@ This analysis was done to mainly focus on 4 to 5 key objectives.
 * This also focuses on the stocks and it's contributions to the total revenue. This portrays the current market trends and the demands. On the basis of this, the higher executives can plan accordingly to maintain the availability of those products at store.
 
 Here are some of the clips of the dashboard pages.<br>
-
-![Screenshot (33)](https://user-images.githubusercontent.com/78749034/216309067-ae50570b-df06-44e6-89ca-d7606558f453.png)
-![Screenshot (28)](https://user-images.githubusercontent.com/78749034/216308882-75a07058-2591-4aa6-9cbb-7dad970e566a.png)
-![Screenshot (29)](https://user-images.githubusercontent.com/78749034/216308940-b4647868-3669-42a2-ba09-2a3501e8da31.png)
-![Screenshot (30)](https://user-images.githubusercontent.com/78749034/216308945-c30eaf44-036c-4e20-8430-01ad066d04aa.png)
-![Screenshot (32)](https://user-images.githubusercontent.com/78749034/216308988-7118f1cb-82b1-479f-8f2d-6cb9c7273b0c.png)
-![Screenshot (31)](https://user-images.githubusercontent.com/78749034/216309259-321b120e-feee-40d2-aba4-168e2949ca05.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/78749034/216310788-531745a4-6895-49f7-b993-90e1d32975b7.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/78749034/216310828-92628e23-5d76-45ac-97dd-7b27bdd80751.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/78749034/216310864-8148be2a-f1a4-42fa-b269-47d3f1966dfa.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/78749034/216310907-ddcc527a-a1e1-41a7-8568-e2965d130e6a.png)
+![Screenshot (31)](https://user-images.githubusercontent.com/78749034/216310928-f6f50596-db20-4e14-b525-d3d7e3752847.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/78749034/216310958-5af079d8-c123-4035-b654-50e998c03ec6.png)
 
