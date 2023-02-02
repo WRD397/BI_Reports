@@ -1,5 +1,5 @@
 # BI_Reports
-> This repository is not going to contain much files. It's going to be more of a blog which contain collection of report samples from few data analysis and data visualizations.
+> This repository is not going to contain much files. It's going to be more of a blog containing collection of report samples from multiple data analysis and visualizations.
 
 > ### 1. Job Market Analysis
 Analysis of recent job market situation, skillsets in demand, salary structure and of course popular domains. 2017 to 2020 data were analyzed using Power BI. Interactive dasboard with multiple pages along with navigation facility, has been created. Canva is used to build the canvas background and reuqired icons. 
@@ -17,3 +17,4 @@ Here are some of the clips of the dashboard pages.<br>
 ![Screenshot (23)](https://user-images.githubusercontent.com/78749034/213902949-a1323dee-8263-4e33-8a19-6019f8ed2d8d.png)
 ![Screenshot (24)](https://user-images.githubusercontent.com/78749034/213902952-85c40b66-11ab-4f52-a054-6b86c8f2636b.png)
 ![Screenshot (25)](https://user-images.githubusercontent.com/78749034/213902957-74c9e075-0b3e-42ef-981d-ecaef6b0beeb.png)
+
