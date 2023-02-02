@@ -17,6 +17,7 @@ Here are some of the clips of the dashboard pages.<br>
 ![Screenshot (23)](https://user-images.githubusercontent.com/78749034/213902949-a1323dee-8263-4e33-8a19-6019f8ed2d8d.png)
 ![Screenshot (24)](https://user-images.githubusercontent.com/78749034/213902952-85c40b66-11ab-4f52-a054-6b86c8f2636b.png)
 ![Screenshot (25)](https://user-images.githubusercontent.com/78749034/213902957-74c9e075-0b3e-42ef-981d-ecaef6b0beeb.png)
+<br><br>
 
 > ### 3. Online Retail Store
 This analysis was done to mainly focus on 4 to 5 key objectives. 
